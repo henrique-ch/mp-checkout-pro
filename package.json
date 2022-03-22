@@ -1,0 +1,12 @@
+{
+  "name": "mp-checkout-pro",
+  "version": "1.0.0",
+  "description": "Integraçao mercado pago checkout pro",
+  "main": "server.js",
+  "author": "Carlos Henrique",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mercadopago": "^1.5.12"
+  }
+}
